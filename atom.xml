@@ -5,12 +5,12 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="zzdespair.github.io/"/>
   <updated>2020-08-05T07:13:02.000Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>zzdespair.github.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Zzdespair</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hexo 初次使用记录</title>
-    <link href="http://yoursite.com/2020/08/04/hello-hexo/"/>
-    <id>http://yoursite.com/2020/08/04/hello-hexo/</id>
+    <link href="zzdespair.github.io/2020/08/04/hello-hexo/"/>
+    <id>zzdespair.github.io/2020/08/04/hello-hexo/</id>
     <published>2020-08-04T10:13:02.000Z</published>
     <updated>2020-08-05T07:13:02.000Z</updated>
     
@@ -40,16 +40,16 @@
     
     
     
-      <category term="Hexo" scheme="http://yoursite.com/tags/Hexo/"/>
+      <category term="Hexo" scheme="zzdespair.github.io/tags/Hexo/"/>
     
-      <category term="Blog" scheme="http://yoursite.com/tags/Blog/"/>
+      <category term="Blog" scheme="zzdespair.github.io/tags/Blog/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2020/08/04/hello-world/"/>
-    <id>http://yoursite.com/2020/08/04/hello-world/</id>
+    <link href="zzdespair.github.io/2020/08/04/hello-world/"/>
+    <id>zzdespair.github.io/2020/08/04/hello-world/</id>
     <published>2020-08-04T10:07:34.555Z</published>
     <updated>2020-08-05T10:24:02.994Z</updated>
     
