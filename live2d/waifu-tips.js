@@ -25,7 +25,7 @@ live2d_settings['tipsMessage']          = 'waifu-tips.json';            // 同�
 live2d_settings['hitokotoAPI']          = 'lwl12.com';                  // 一言 API，可选 'lwl12.com', 'hitokoto.cn', 'jinrishici.com'(古诗词)
 
 // 默认模型
-live2d_settings['modelId']              = 1;            // 默认模型 ID，可在 F12 控制台找到
+live2d_settings['modelId']              = 3;            // 默认模型 ID，可在 F12 控制台找到
 live2d_settings['modelTexturesId']      = 87;           // 默认材质 ID，可在 F12 控制台找到
 
 // 工具栏设置
@@ -39,7 +39,7 @@ live2d_settings['canTurnToHomePage']    = true;         // 显示 返回首页  
 live2d_settings['canTurnToAboutPage']   = true;         // 显示 跳转关于页  按钮，可选 true(真), false(假)
 
 // 模型切换模式
-live2d_settings['modelStorage']         = false;         // 记录 ID (刷新后恢复)，可选 true(真), false(假)
+live2d_settings['modelStorage']         = true;         // 记录 ID (刷新后恢复)，可选 true(真), false(假)
 live2d_settings['modelRandMode']        = 'switch';     // 模型切换，可选 'rand'(随机), 'switch'(顺序)
 live2d_settings['modelTexturesRandMode']= 'rand';       // 材质切换，可选 'rand'(随机), 'switch'(顺序)
 
@@ -66,8 +66,8 @@ live2d_settings['waifuDraggableRevert'] = true;         // 松开鼠标还原拖
 // 其他杂项设置
 live2d_settings['l2dVersion']           = '1.4.2';        // 当前版本
 live2d_settings['l2dVerDate']           = '2018.11.12'; // 版本更新日期
-live2d_settings['homePageUrl']          = 'https://removeif.github.io';       // 主页地址，可选 'auto'(自动), '{URL 网址}'
-live2d_settings['aboutPageUrl']         = 'https://removeif.github.io/about/';   // 关于页地址, '{URL 网址}'
+live2d_settings['homePageUrl']          = 'https://https://zzdespair.github.io/';       // 主页地址，可选 'auto'(自动), '{URL 网址}'
+live2d_settings['aboutPageUrl']         = 'https://https://zzdespair.github.io/about/';   // 关于页地址, '{URL 网址}'
 live2d_settings['screenshotCaptureName']= 'live2d.png'; // 看板娘截图文件名，例如 'live2d.png'
 
 /****************************************************************************************************/
